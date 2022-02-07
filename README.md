@@ -1,2 +1,2 @@
 # a-movie-app-powerd-by-api
-a movie app
+a movie app with a dark mode toggle
